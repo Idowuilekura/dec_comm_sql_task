@@ -9,6 +9,8 @@ Results should include the columns employee_id, employee_name, department, desig
 
 Note: *The requirement is to calculate the amount of time in hours, minutes, and seconds between each In and Out, for each Employee. While there is usually a matching Out row for each In, sometimes there is an In with no Out or an Out with no In. In either of these cases, omit the data from the result.*
 
+Check the scripts folder for the SQL script to create and insert records into the tables (for PostgresSQL)
+
 ![image](https://github.com/user-attachments/assets/fc951263-4527-473d-a608-f5cebe202a35)
 
 ![image](https://github.com/user-attachments/assets/837f241b-3df1-4512-a32f-982eb451b4cd)
