@@ -1,3 +1,8 @@
+CREATE TABLE department_master(
+    department_id INT PRIMARY KEY,
+    department VARCHAR(255) NOT NULL
+);
+
 CREATE TABLE designation_master (
     designation_id INT PRIMARY KEY,
     designation VARCHAR(255) NOT NULL
